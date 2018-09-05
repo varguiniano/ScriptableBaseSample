@@ -49,3 +49,6 @@ ProjectSettings/QualitySettings.asset
 ProjectSettings/PresetManager.asset
 ProjectSettings/Physics2DSettings.asset
 ProjectSettings/AudioManager.asset
+/Assets/Plugins/
+/.idea/
+/Assets/Plugins.meta
