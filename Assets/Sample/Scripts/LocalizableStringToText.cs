@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using Varguiniano.ScriptableCore.Events;
+using Varguiniano.ScriptableCore.Events.Listeners;
 using Varguiniano.ScriptableCore.Primitives;
 
 namespace Sample
